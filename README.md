@@ -14,4 +14,4 @@ voici une petit image du programme
  ps : il à etait fait sous py 
 
 
-(https://i.imgur.com/PeaQXA5.png)
+![ss](https://i.imgur.com/PeaQXA5.png)
