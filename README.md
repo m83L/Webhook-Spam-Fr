@@ -10,7 +10,8 @@ tu peut t'en servir pour :
   - Embéter un de tes compain 
 
 voici une petit image du programme 
-    ps : il à etait fait sous py 
+    
+ ps : il à etait fait sous py 
 
 
-![ss](https://imgur.com/PeaQXA5)
+https://i.imgur.com/PeaQXA5.png
